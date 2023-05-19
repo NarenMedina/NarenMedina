@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔️Actualmente estudiante<br>✔️Logrando nuevas metas en la programación<br>✔️Eficiente en todos los trabajos que me involucro<br>✔️Me gusta colaborar con otros desarrolladores<br>✔️Desarrollando un proyecto a una empresa
+✔️ Tecnologo en sistemas de información<br>✔️Logrando nuevas metas en la programación<br>✔️Eficiente en todos los trabajos que me involucro<br>✔️Me gusta colaborar con otros desarrolladores<br>✔️Desarrollar Backend
 
 
 ## 🌐 Socials:
